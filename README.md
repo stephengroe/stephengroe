@@ -1,9 +1,11 @@
-# Hi! I'm Stephen.
+# Hi! I'm Stephen 👋
 
-I'm a full-stack developer in Mesa, Arizona.
+Full-stack developer based in Mesa, Arizona.
 
-- 🤖 I'm building a [tiny language model](https://github.com/stephengroe/little-language-model) from scratch in TypeScript.
+- 🤖 Currently building a [tiny language model](https://github.com/stephengroe/little-language-model) from scratch in TypeScript.
 - 🌵 I keep an updated list of [tech events in the Phoenix area](https://github.com/stephengroe/phx-tech-events).
-- 📚 When I'm not coding, you'll find me with a good book, at the gym, or writing something.
+- 📚 When I'm not coding, you'll find me reading, writing, or lifting.
 
-👋 I'm currently open to software engineering roles where I can work on challenging technical problems—especially in dev tools or ML. If you're hiring, I'd love to connect.
+💼 Open to software engineering roles where I can help solve challenging technical problems, especially at early-stage startups.
+
+📬 Reach me at [stephen@stephengroe.com](mailto:stephen@stephengroe.com) or [connect on LinkedIn](https://www.linkedin.com/in/stephengroe).
