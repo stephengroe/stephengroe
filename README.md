@@ -8,4 +8,4 @@ Full-stack developer based in Mesa, Arizona.
 
 💼 Open to software engineering roles where I can help solve challenging technical problems, especially at early-stage startups.
 
-📬 Reach me at [stephen@stephengroe.com](mailto:stephen@stephengroe.com) or [connect on LinkedIn](https://www.linkedin.com/in/stephengroe).
+📬 Reach me at my email or [connect on LinkedIn](https://www.linkedin.com/in/stephengroe).
